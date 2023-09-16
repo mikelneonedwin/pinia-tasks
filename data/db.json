@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "title": "Make a new friend",
+      "isFav": false,
+      "id": 2435
+    },
+    {
+      "title": "Pinia",
+      "isFav": false,
+      "id": 2222
+    },
+    {
+      "title": "Vuex",
+      "isFav": false,
+      "id": 5071
+    },
+    {
+      "title": "Vue",
+      "isFav": false,
+      "id": 6115
+    }
+  ]
+}
